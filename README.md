@@ -1,2 +1,0 @@
-# famousquotes
-Famous Quotes
